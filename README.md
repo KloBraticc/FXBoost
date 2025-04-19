@@ -3,14 +3,13 @@
 **FXBoost** is a performance-boosting utility for Windows systems that automates system optimizations to enhance your gaming and computing experience. It’s a fork of QuickBoost, designed to provide better control, more options, and optimized performance.
 
 ### ⚠️ **Important**: Before using FXBoost, create a system restore point to avoid any issues.
+[Create a System Restore Point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)
+
+## [Download FXBoost](https://kurd.zip/FXBoost)
 
 ![GitHub](https://img.shields.io/badge/Attribution%20NonCommercial%20ShareAlike%204.0%20International-License-green)
 # ![GitHub all releases](https://img.shields.io/github/downloads/sangraphic/quickboost/total?label=Downloads&style=for-the-badge)
 ![GIF](https://media.discordapp.net/attachments/744536520089796671/979117981147734016/ezgif-5-9322a93fa0.gif?width=895&height=468)
-
-[Create a System Restore Point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)
-
-## [Download FXBoost](https://kurd.zip/FXBoost)
 
 ### **What FXBoost Does**
 - Disables telemetry & unnecessary data collection.
