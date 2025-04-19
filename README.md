@@ -7,16 +7,9 @@
 
 ## [Download FXBoost](https://kurd.zip/FXBoost)
 
-<div align="center">
-    <!-- Top Badges -->
-    ![Attribution NonCommercial ShareAlike 4.0 International License](https://img.shields.io/badge/Attribution%20NonCommercial%20ShareAlike%204.0%20International-License-green)
-    ![GitHub all releases](https://img.shields.io/github/downloads/sangraphic/quickboost/total?label=Downloads&style=for-the-badge)
-</div>
-
-<!-- GIF -->
-<div align="center">
-    ![GIF](https://media.discordapp.net/attachments/744536520089796671/979117981147734016/ezgif-5-9322a93fa0.gif?width=895&height=468)
-</div>
+![GitHub](https://img.shields.io/badge/Attribution%20NonCommercial%20ShareAlike%204.0%20International-License-green)
+# ![GitHub all releases](https://img.shields.io/github/downloads/sangraphic/quickboost/total?label=Downloads&style=for-the-badge)
+![GIF](https://media.discordapp.net/attachments/744536520089796671/979117981147734016/ezgif-5-9322a93fa0.gif?width=895&height=468)
 
 
 ### **What FXBoost Does**
