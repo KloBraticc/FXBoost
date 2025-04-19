@@ -1,30 +1,29 @@
-# QuickBoost: Automated Windows 10/11 Tweaking Utility
+# FXBoost: Optimized Windows Tweaking Utility
+
+**FXBoost** is a performance-boosting utility for Windows systems that automates system optimizations to enhance your gaming and computing experience. It’s a fork of QuickBoost, designed to provide better control, more options, and optimized performance.
+
+### ⚠️ **Important**: Before using FXBoost, create a system restore point to avoid any issues.
+
 ![GitHub](https://img.shields.io/badge/Attribution%20NonCommercial%20ShareAlike%204.0%20International-License-green)
 # ![GitHub all releases](https://img.shields.io/github/downloads/sangraphic/quickboost/total?label=Downloads&style=for-the-badge)
 ![GIF](https://media.discordapp.net/attachments/744536520089796671/979117981147734016/ezgif-5-9322a93fa0.gif?width=895&height=468)
 
-### ⚠ MAKE A SYSTEM RESTORE POINT IN CASE ANYTHING GOES WRONG, TUTORIAL [HERE](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9) 
+[Create a System Restore Point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)
 
-# [Download](https://kurd.zip/quickboost) 
-## Leave a ⭐ if it helped  <3
+## [Download FXBoost](https://kurd.zip/FXBoost)
 
-Code Written & Compiled by [@SanGraphic](https://twitter.com/sangraphic)
+### **What FXBoost Does**
+- Disables telemetry & unnecessary data collection.
+- Optimizes CPU, RAM, and GPU settings for better performance.
+- Disables bloatware, unwanted services, and processes.
+- Cleans up temporary files and clears cache.
+- Enables full-screen exclusive mode for lower input delay.
+- Customizable optimizations: users can choose specific tweaks.
+- Auto-updates for the latest improvements and features.
+- Provides a performance monitoring dashboard with real-time stats.
 
-Quickboost is a community project, anyone can help grow and improve the program through pull requests!
 
-
-
-## what does it do? (Simplified Summary)
-
-- Disable Telemetry & Data Collection
-- Disable Scheduled Tasks & Bloatwares
-- Disable Unnecessary Services
-- Disable (most) System Loggings
-- Performance & Memory Usage Tweaks
-- Remove Temporary Files
-- Auto-update to use latest script 
-
-## What does it Actually do? (Nerd Summary)
+### **What does it Actually do? (Nerd Summary)**
 - Disable CPU energy-saving technique that reduces CPU power consumption and synchronizing of process wake-ups.
 - Adding more ram for applications in system memory caching to improve microstuttering (Enable LargeSystemCache)
 - Disable Ram saving techniques Windows use (Paging Combining) to improve microstuttering
@@ -60,7 +59,13 @@ Quickboost is a community project, anyone can help grow and improve the program 
 - Disable Sleep study
 - Disable Aero shake
 
-+ more that I don't have the time to write.
+
+### **Core Features**
+- **Optimize CPU Performance:** Disable power-saving modes, tweak performance states for maximum performance.
+- **Disable Bloatware & Telemetry:** Turn off unnecessary services and data collection tools that slow down your system.
+- **Gaming-Optimized Tweaks:** Prioritize system resources for gaming with a custom Nvidia profile, disable V-Sync, and reduce input latency.
+- **Clean Up Your System:** Remove temporary files, clear system cache, and delete old logs.
+- **Monitor Your System Performance:** Track improvements in CPU, RAM, and disk usage in real-time.
 
 ## How to Build from Source? (Simple)
 1. Hold shift + Right click and click Open Powershell window.
